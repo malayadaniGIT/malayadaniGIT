@@ -17,7 +17,7 @@
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<br>✔  🧑‍💻 &nbsp; I’m currently working on Web Development using React and Redux.<br><br>✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br><br>✔  💬 Ask me about  HTML, CSS, JavaScript, React,Java<br><br>✔  📫 &nbsp;How to reach me, you can email me at [Gmail](mailto:malayadani@gmail.com)<br><br>✔  📫 &nbsp;Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/malaya-ranjan-dani/),If I am alive I will answer within seconds😉<br><br>✔  🤔 &nbsp; I’m currently open for a new job opportunity,
+<br>✔  🧑‍💻 &nbsp; I’m currently working on Web Development using React and Redux.<br><br>✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br><br>✔  💬 Ask me about  HTML, CSS, JavaScript, React<br><br>✔  📫 &nbsp;How to reach me, you can email me at [Gmail](mailto:malayadani@gmail.com)<br><br>✔  📫 &nbsp;Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/malaya-ranjan-dani/),If I am alive I will answer within seconds😉<br><br>✔  🤔 &nbsp; I’m currently open for a new job opportunity,
 
 
 <br><br >
