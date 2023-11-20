@@ -28,22 +28,22 @@
 <table style="width: 100%;">
   <tr>
     <td style="width: 33%; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sachinbiswal&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=malayadaniGIT&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     </td>
     <td style="width: 33%; text-align: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinbiswal&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=malayadaniGIT&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats">
     </td>
     <td style="width: 33%; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinbiswal&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malayadaniGIT&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
     </td>
   </tr>
 </table>
 
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sachinbiswal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=malayadaniGIT&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sachinbiswal&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=malayadaniGIT&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
